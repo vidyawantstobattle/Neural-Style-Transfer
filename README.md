@@ -6,12 +6,12 @@ The trick with gram matrix to understand style loss and separating content from 
 
 My content image: <br />
 
-![content](https://github.com/vidyawantstobattle/Neural-Style-Transfer/blob/main/images/mumbai_sunset.jpeg)
+![content](https://github.com/vidyawantstobattle/Neural-Style-Transfer/blob/main/images/mumbai_sunset.jpeg =200x200)
 
 My style image: <br />
 
-![style](https://github.com/vidyawantstobattle/Neural-Style-Transfer/blob/main/images/renoir.jpg)
+![style](https://github.com/vidyawantstobattle/Neural-Style-Transfer/blob/main/images/renoir.jpg =200x200)
 
 
 My output image: <br />
-![output](https://github.com/vidyawantstobattle/Neural-Style-Transfer/blob/main/images/sunset_renoir.png)
+![output](https://github.com/vidyawantstobattle/Neural-Style-Transfer/blob/main/images/sunset_renoir.png =200x200)
